@@ -1,180 +1,116 @@
-<!-- ============================================================ -->
-<!--                  SHANNU · PROFILE README                     -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=230&section=header&text=SHANNU&fontSize=82&fontColor=00FFAA&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20CTF%20Player&descSize=20&descColor=E2E8F0&descAlignY=58" width="100%" alt="Shannu banner" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&height=50&lines=Cybersecurity+Engineer;AI+Builder;CTF+Player;Arch+Linux+User;Building+AI+for+Security;Always+Learning..." alt="Typing animation" />
+<img src="./assets/banner.svg" width="100%" alt="Shannu: security engineer. A packet travels the attack chain from recon to loot." />
 
 <br>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FFAA?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117)
-![Location](https://img.shields.io/badge/LOCATION-INDIA-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%2B%20SECURITY-A855F7?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D1117)
-![OS](https://img.shields.io/badge/OS-ARCH%20LINUX-FBBF24?style=for-the-badge&logo=archlinux&logoColor=black&labelColor=0D1117)
-
-<br>
-
-[![Writeups](https://img.shields.io/badge/Walkthroughs-40-00FFAA?style=for-the-badge&logo=bookstack&logoColor=black)](https://github.com/5h4nnu-dev/CTF-Archive)
-[![Commits](https://img.shields.io/github/commit-activity/t/5h4nnu-dev/CTF-Archive?style=for-the-badge&color=38BDF8&logo=git&logoColor=white)](https://github.com/5h4nnu-dev/CTF-Archive/commits/main)
-[![Screenshots](https://img.shields.io/badge/Screenshots-476-A855F7?style=for-the-badge&logo=image&logoColor=white)](https://github.com/5h4nnu-dev/CTF-Archive/tree/main/public/assets/screenshots)
-[![Stars](https://img.shields.io/github/stars/5h4nnu-dev/CTF-Archive?style=for-the-badge&color=FBBF24&logo=github&logoColor=black)](https://github.com/5h4nnu-dev/CTF-Archive/stargazers)
-
-### 📦 [github.com/5h4nnu-dev/CTF-Archive](https://github.com/5h4nnu-dev/CTF-Archive)
+[![CTF-Archive](https://img.shields.io/badge/CTF--Archive-40_walkthroughs-ffb000?style=flat-square&labelColor=0a0f17)](https://github.com/5h4nnu-dev/CTF-Archive)
+[![Stars](https://img.shields.io/github/stars/5h4nnu-dev/CTF-Archive?style=flat-square&color=3fd0c9&labelColor=0a0f17)](https://github.com/5h4nnu-dev/CTF-Archive/stargazers)
+[![Commits](https://img.shields.io/github/commit-activity/t/5h4nnu-dev/CTF-Archive?style=flat-square&color=ff5a4e&labelColor=0a0f17)](https://github.com/5h4nnu-dev/CTF-Archive/commits/main)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 👨‍💻nbsp;`> whoami`
+## whoami
 
-<table>
-<tr>
-<td width="55%" valign="top">
+```console
+shannu@arch:~$ whoami
+shannu
 
-```bash
-$ whoami
-
-Name     : Shannu
-Location : India
-Role     : Security Engineer
-Focus    : AI + Cybersecurity
-OS       : Arch Linux (btw)
+shannu@arch:~$ cat /etc/profile.d/mission.sh
+# Build systems that find, understand and fix vulnerabilities on their own.
+export ROLE="security engineer"
+export FOCUS="ai + offensive security"
+export HOME_BASE="india"
+export DISTRO="arch"          # btw
 ```
 
-</td>
-<td width="45%" valign="top">
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### 🎯 Mission
+## What I'm building
 
-> Build intelligent systems capable of **finding**, **understanding** and **fixing** vulnerabilities — *automatically*.
+| Project | What it does |
+| :--- | :--- |
+| **Vulnix** | AI-powered vulnerability scanner |
+| **SecureProbe** | Web security assessment toolkit |
+| **Emotional AI** | An AI that reads personality and emotion |
+| **ARIS** | AI campus surveillance system |
+| **AI Team** | Autonomous multi-agent AI |
+| **[CTF-Archive](https://github.com/5h4nnu-dev/CTF-Archive)** | 40-room CTF writeup blog, React + Vite |
 
-![Online](https://img.shields.io/badge/🟢_STATUS-ONLINE-00FFAA?style=flat-square&labelColor=0D1117)
-![Building](https://img.shields.io/badge/🚀_BUILDING-AI--POWERED_SECURITY-A855F7?style=flat-square&labelColor=0D1117)
+Currently learning: malware analysis, reverse engineering, Kubernetes, cloud security, AI agents.
 
-</td>
-</tr>
-</table>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-## 🏆 &nbsp;Featured Project — CTF-Archive
-
-<div align="center">
-
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-[![react-markdown](https://img.shields.io/badge/react--markdown-10-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/remarkjs/react-markdown)
-[![Oxlint](https://img.shields.io/badge/Oxlint-1.69-7C3AED?style=for-the-badge)](https://oxc.rs/docs/guide/usage/linter.html)
-
-<a href="https://github.com/5h4nnu-dev/CTF-Archive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=5h4nnu-dev&repo=CTF-Archive&theme=tokyonight&hide_border=true&show_owner=true" alt="CTF-Archive repo card" />
-</a>
-
-</div>
-
-**CTF-Archive** is a dark-themed React + Vite blog that turns my hands-on CTF lab work into searchable, screenshot-rich technical walkthroughs. Every room is documented with the same discipline:
+## Skills, as seen by nmap
 
 <div align="center">
-
-`overview` ➜ `enumeration` ➜ `exploitation` ➜ `privilege escalation` ➜ `flags` ➜ `commands used` ➜ `lessons learned` ➜ `references`
-
+  <img src="./assets/skills.svg" width="100%" alt="Skill levels shown as an nmap scan" />
 </div>
 
-### 📊 By the numbers
+```console
+languages : python  c  c++  java  bash  typescript  javascript
+tooling   : linux  docker  kubernetes  git  nginx
+web       : react  vite  node
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Featured: CTF-Archive
+
+A dark-themed React + Vite blog that turns hands-on CTF lab work into searchable, screenshot-heavy walkthroughs. Every room follows the same shape:
+
+`overview` > `enumeration` > `exploitation` > `privilege escalation` > `flags` > `commands used` > `lessons learned` > `references`
+
+**Stack:** React 19, Vite 8, react-markdown 10, Oxlint 1.69. Content is plain Markdown in `src/writeups/`, loaded at build time with `import.meta.glob`.
 
 <div align="center">
-
-| 📝 Walkthroughs | 🗓 Dev window | 🔀 Commits | 🖼 Screenshots | 📄 Markdown |
-| :---: | :---: | :---: | :---: | :---: |
-| **40** rooms | **Jul – Nov 2026** | **43** | **476** | **~11,300** lines |
-
-![Easy](https://img.shields.io/badge/Easy-32-22C55E?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-5-F59E0B?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge)
-![Very Easy](https://img.shields.io/badge/Very_Easy-1-14B8A6?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-1-A855F7?style=for-the-badge)
-
-<sub>🔀 Commit history: **24** in Jul · **5** in Aug · **14** in Nov</sub>
-
+  <img src="./assets/activity.svg" width="100%" alt="CTF-Archive activity: commits per month, totals and difficulty split" />
 </div>
 
-### 🧠 What the archive covers
+### What the archive covers
 
 | Domain | Skills documented | Example rooms |
 | :--- | :--- | :--- |
-| 🌐 **Web & CMS exploitation** | Webmin backdoors, CMS RCE, SQLi, file upload, command injection | AttackerKB, Source, Bolt, Ignite, Thompson, Room 404 |
-| 🔐 **Privilege escalation** | Sudo/GTFOBins, SUID, cron jobs, capabilities, PATH hijacking, containers | Wgel, Overpass, Kenobi, Kiba, Couch, Simple CTF |
-| 🕵 **OSINT & social engineering** | Gravatar hashing, SOCMINT, metadata, public clue chains | The Brochure, Overheard at Breakfast, OhSINT |
-| 🖼 **Steganography & forensics** | Image headers, binary decoding, packet captures, spectrograms | Madness, Lian_Yu, Jack, KoTH Food, CTF Collection Vol. 1 |
-| 💥 **Binary exploitation & CVEs** | Buffer overflow, ret2win, Java deserialization, UAC bypass | The Cod Caper, Tony the Tiger, Blaster, Ice |
-| 📚 **Learning & custom tooling** | Linux privesc lab, sqlmap tamper script, guided pentest path | Linux PrivEsc, Tamper, Path |
+| Web and CMS exploitation | Webmin backdoors, CMS RCE, SQLi, file upload, command injection | AttackerKB, Source, Bolt, Ignite, Thompson, Room 404 |
+| Privilege escalation | Sudo/GTFOBins, SUID, cron jobs, capabilities, PATH hijacking, containers | Wgel, Overpass, Kenobi, Kiba, Couch, Simple CTF |
+| OSINT and social engineering | Gravatar hashing, SOCMINT, metadata, public clue chains | The Brochure, Overheard at Breakfast, OhSINT |
+| Steganography and forensics | Image headers, binary decoding, packet captures, spectrograms | Madness, Lian_Yu, Jack, KoTH Food, CTF Collection Vol. 1 |
+| Binary exploitation and CVEs | Buffer overflow, ret2win, Java deserialization, UAC bypass | The Cod Caper, Tony the Tiger, Blaster, Ice |
+| Learning and custom tooling | Linux privesc lab, sqlmap tamper script, guided pentest path | Linux PrivEsc, Tamper, Path |
 
-### ✨ App features
+### App features
 
-<table>
-<tr>
-<td>
+- **Full-text search** across titles, descriptions and tags
+- **Smart filtering** by difficulty (Easy to Insane) with combinable tags
+- **Reader view** with syntax-highlighted Markdown
+- **In-app authoring** using YAML frontmatter and `localStorage`
+- **One-click export** of any writeup as Markdown
+- **Dark responsive UI** with a glassmorphism navbar and colour-coded badges
 
-🔎 **Full-text search**<br><sub>titles, descriptions & tags</sub>
-
-</td>
-<td>
-
-🏷 **Smart filtering**<br><sub>Easy → Insane, combinable tags</sub>
-
-</td>
-<td>
-
-📖 **Reader view**<br><sub>syntax-highlighted Markdown</sub>
-
-</td>
-</tr>
-<tr>
-<td>
-
-✍ **In-app authoring**<br><sub>YAML frontmatter + `localStorage`</sub>
-
-</td>
-<td>
-
-⬇ **One-click export**<br><sub>download any writeup as Markdown</sub>
-
-</td>
-<td>
-
-🌙 **Dark responsive UI**<br><sub>glassmorphism navbar, colour-coded badges</sub>
-
-</td>
-</tr>
-</table>
-
-> 🗂 **File-based content** — `import.meta.glob` loads `src/writeups/*.md` at build time.
-
-### 🔗 The attack-chain pattern behind every post
+### The chain behind every post
 
 ```mermaid
 flowchart LR
-    A([🔍 RECON<br/>nmap · ports]) --> B([📂 ENUMERATE<br/>gobuster · dirs])
-    B --> C([💥 EXPLOIT<br/>CVE · web injection])
-    C --> D([🐚 FOOTHOLD<br/>reverse shell · creds])
-    D --> E([⬆ ESCALATE<br/>sudo · SUID · cron · PATH])
-    E --> F([🚩 LOOT<br/>user & root flags])
-    F --> G([📝 TEACH<br/>writeup · lessons])
+    A([recon<br/>nmap, ports]) --> B([enumerate<br/>gobuster, dirs])
+    B --> C([exploit<br/>CVE, web injection])
+    C --> D([foothold<br/>reverse shell, creds])
+    D --> E([escalate<br/>sudo, SUID, cron, PATH])
+    E --> F([loot<br/>user and root flags])
+    F --> G([teach<br/>writeup, lessons])
 
-    style A fill:#0D1117,stroke:#00FFAA,color:#00FFAA
-    style B fill:#0D1117,stroke:#38BDF8,color:#38BDF8
-    style C fill:#0D1117,stroke:#EF4444,color:#EF4444
-    style D fill:#0D1117,stroke:#FBBF24,color:#FBBF24
-    style E fill:#0D1117,stroke:#A855F7,color:#A855F7
-    style F fill:#0D1117,stroke:#22C55E,color:#22C55E
-    style G fill:#0D1117,stroke:#F472B6,color:#F472B6
+    style A fill:#0a0f17,stroke:#3fd0c9,color:#3fd0c9
+    style B fill:#0a0f17,stroke:#3fd0c9,color:#3fd0c9
+    style C fill:#0a0f17,stroke:#ff5a4e,color:#ff5a4e
+    style D fill:#0a0f17,stroke:#ffb000,color:#ffb000
+    style E fill:#0a0f17,stroke:#ffb000,color:#ffb000
+    style F fill:#0a0f17,stroke:#e9e4d4,color:#e9e4d4
+    style G fill:#0a0f17,stroke:#6f8199,color:#6f8199
 ```
 
 <details>
-<summary>📚 <b>Open the full 40-room index</b> (click to expand)</summary>
+<summary><b>Open the full 40-room index</b></summary>
 
 <br>
 
@@ -205,7 +141,7 @@ flowchart LR
 | 23 | [Linux PrivEsc](https://github.com/5h4nnu-dev/CTF-Archive/blob/main/src/writeups/linuxprivesc.md) | 10+ privesc vectors in one learning VM |
 | 24 | [Madness](https://github.com/5h4nnu-dev/CTF-Archive/blob/main/src/writeups/madness.md) | Header repair, ROT13, SUID screen 4.5.0 |
 | 25 | [OhSINT](https://github.com/5h4nnu-dev/CTF-Archive/blob/main/src/writeups/ohsint.md) | Pure OSINT reconnaissance |
-| 26 | [Overheard at Breakfast](https://github.com/5h4nnu-dev/CTF-Archive/blob/main/src/writeups/overheardatbreakfast.md) | Discord leak → Gravatar hash → hidden flag |
+| 26 | [Overheard at Breakfast](https://github.com/5h4nnu-dev/CTF-Archive/blob/main/src/writeups/overheardatbreakfast.md) | Discord leak, Gravatar hash, hidden flag |
 | 27 | [Overpass](https://github.com/5h4nnu-dev/CTF-Archive/blob/main/src/writeups/overpass.md) | Cookie bypass, SSH key cracking, `/etc/hosts` cron |
 | 28 | [Path](https://github.com/5h4nnu-dev/CTF-Archive/blob/main/src/writeups/path.md) | IDOR, upload bypass, UnrealIRCd backdoor |
 | 29 | [Pickle Rick](https://github.com/5h4nnu-dev/CTF-Archive/blob/main/src/writeups/picklerick.md) | `robots.txt`, command injection, passwordless sudo |
@@ -223,178 +159,12 @@ flowchart LR
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-## 🚀 &nbsp;Projects
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🛡 Vulnix
-![AI](https://img.shields.io/badge/AI-Powered-00FFAA?style=flat-square)
-![Scanner](https://img.shields.io/badge/Vulnerability-Scanner-EF4444?style=flat-square)
-
-AI-powered vulnerability scanner
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🔍 SecureProbe
-![Web](https://img.shields.io/badge/Web-Security-38BDF8?style=flat-square)
-![Toolkit](https://img.shields.io/badge/Assessment-Toolkit-A855F7?style=flat-square)
-
-Web security assessment toolkit
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🤖 Emotional AI
-![AI](https://img.shields.io/badge/AI-Personality-F472B6?style=flat-square)
-![Emotions](https://img.shields.io/badge/Emotion-Aware-FBBF24?style=flat-square)
-
-AI that understands personality & emotions
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🎓 ARIS
-![Campus](https://img.shields.io/badge/Campus-Surveillance-14B8A6?style=flat-square)
-![AI](https://img.shields.io/badge/AI-System-00FFAA?style=flat-square)
-
-AI campus surveillance system
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 👥 AI Team
-![Agents](https://img.shields.io/badge/Autonomous-Agents-A855F7?style=flat-square)
-![AI](https://img.shields.io/badge/Multi--Agent-AI-38BDF8?style=flat-square)
-
-Autonomous AI Agents
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 📝 [CTF-Archive](https://github.com/5h4nnu-dev/CTF-Archive)
-![React](https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Rooms](https://img.shields.io/badge/40-Rooms-FBBF24?style=flat-square)
-
-40-room CTF writeup blog — React + Vite
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-## ⚔ &nbsp;Cyber Arsenal
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-| Skill | Proficiency |
-| :--- | :--- |
-| 🛰 **Recon** | <img src="https://progress-bar.xyz/100/?title=&width=320&color=00FFAA&suffix=%25" alt="Recon 100%" /> |
-| 🌐 **Networking** | <img src="https://progress-bar.xyz/100/?title=&width=320&color=38BDF8&suffix=%25" alt="Networking 100%" /> |
-| 🐧 **Linux** | <img src="https://progress-bar.xyz/100/?title=&width=320&color=A855F7&suffix=%25" alt="Linux 100%" /> |
-| 🤖 **Artificial Intelligence** | <img src="https://progress-bar.xyz/100/?title=&width=320&color=F472B6&suffix=%25" alt="AI 100%" /> |
-| 🐍 **Python** | <img src="https://progress-bar.xyz/83/?title=&width=320&color=FBBF24&suffix=%25" alt="Python 83%" /> |
-| 🟦 **TypeScript** | <img src="https://progress-bar.xyz/78/?title=&width=320&color=3178C6&suffix=%25" alt="TypeScript 78%" /> |
-| ☁ **Cloud** | <img src="https://progress-bar.xyz/55/?title=&width=320&color=14B8A6&suffix=%25" alt="Cloud 55%" /> |
-| 🔬 **Reverse Engineering** | <img src="https://progress-bar.xyz/44/?title=&width=320&color=F97316&suffix=%25" alt="Reverse Engineering 44%" /> |
-| 🦠 **Malware Analysis** | <img src="https://progress-bar.xyz/33/?title=&width=320&color=EF4444&suffix=%25" alt="Malware Analysis 33%" /> |
+*Hack to understand. Build to protect.*
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-## 🎯 &nbsp;Current Mission
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📖 Learning
-
-![Malware](https://img.shields.io/badge/Malware_Analysis-EF4444?style=for-the-badge&logo=virustotal&logoColor=white)
-![RE](https://img.shields.io/badge/Reverse_Engineering-F97316?style=for-the-badge&logo=ghidra&logoColor=white)
-![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Security-14B8A6?style=for-the-badge&logo=icloud&logoColor=white)
-![Agents](https://img.shields.io/badge/AI_Agents-A855F7?style=for-the-badge&logo=openai&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔨 Building
-
-![Vulnix](https://img.shields.io/badge/Vulnix-00FFAA?style=for-the-badge&logoColor=black)
-![SecureProbe](https://img.shields.io/badge/SecureProbe-38BDF8?style=for-the-badge&logoColor=black)
-![Emotional AI](https://img.shields.io/badge/Emotional_AI-F472B6?style=for-the-badge&logoColor=black)
-![AI Team](https://img.shields.io/badge/AI_Team-FBBF24?style=for-the-badge&logoColor=black)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> 🏁 **Goal:** Become a Security Engineer building autonomous AI systems.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-## 🧰 &nbsp;Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,bash,ts,js&perline=7" alt="Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,arch,docker,kubernetes,git,github,nginx&perline=7" alt="Tools" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs&perline=3" alt="Web" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-## 📈 &nbsp;GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5h4nnu-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=5h4nnu-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5h4nnu-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5h4nnu-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</p>
-
-### 🏅 Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=5h4nnu-dev&theme=algolia&no-frame=true&column=4" alt="Trophies" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-<div align="center">
-
-### 💬 Quote of the day
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&italic=true&size=20&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=%22Hack+to+understand.%22;%22Build+to+protect.%22" alt="Quote" />
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=5h4nnu-dev&color=00ffaa&style=for-the-badge&label=PROFILE+VIEWS)
-
-Thanks for stopping by. ⭐ the repos if they helped you.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" width="100%" alt="footer wave" />
+Goal: become a security engineer who builds autonomous AI systems.
 
 </div>
